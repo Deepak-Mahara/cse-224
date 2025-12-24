@@ -5,7 +5,7 @@
 This repository contains the official submission link for my **Continuous Assessment (CA)**.
 
 ## 👨‍🎓 Student Details
-- Name: Deepak Mahara
+- Name: Deepak Singh Mahara
 
 ## 🔗 Submission
 The CA submission link is included here for evaluation purposes.
